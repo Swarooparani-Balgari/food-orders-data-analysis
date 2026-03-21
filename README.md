@@ -18,10 +18,11 @@ Analyze food delivery data to understand revenue trends, restaurant performance,
 ![Dashboard](food_orders_dashboard.png)
 
 ### Key Insights
-- Certain restaurants generate significantly higher revenue
+- Pizza Town restaurant generates the higher revenue
 - City-wise performance shows uneven distribution
-- Some categories dominate total orders
+- Indian category dominates the other categories
 - Revenue trends vary across locations and categories
+- Mumbai city has the highest revenue 
 
 ### Files Included
 - data.xlsx → Raw dataset
